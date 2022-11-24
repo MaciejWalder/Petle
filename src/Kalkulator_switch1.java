@@ -20,7 +20,7 @@ public class Kalkulator_switch1 {
                 System.out.println("Wynik mnozenia " + (number1*number2));
                 break;
             case 4:
-                System.out.println("Wynik dzielenia " + (number1/number2));
+                System.out.println("" + (number1/number2));
                 break;
         }
     }
